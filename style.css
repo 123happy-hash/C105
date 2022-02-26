@@ -1,0 +1,13 @@
+#camera{
+    border: 3px solid rgb(0, 234, 255);
+    width: 300px;
+    height: 300px;
+}
+#Output{
+    border: 3px solid rgb(217, 255, 0);
+    width: 350px;
+    height: 310px;
+}
+body{
+    background: linear-gradient(rgba(255, 95, 95, 0.904), rgb(161, 106, 4), rgb(173, 173, 4), rgb(7, 163, 7), rgb(9, 158, 146),rgb(148, 13, 245), rgb(158, 11, 216));
+}
